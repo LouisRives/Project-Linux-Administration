@@ -1,0 +1,3 @@
+disque_total:10.7Go
+disque_utilise:5.47Go
+disque_libre:4.66Go

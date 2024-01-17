@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datas>
+  <verif_disque date_creation="2023-04-12 13:06:07">
+    <disque_total>10.7Go</disque_total>
+    <disque_utilise>5.47Go</disque_utilise>
+    <disque_libre>4.66Go</disque_libre>
+  </verif_disque>
+  <verif_memoire date_creation="2023-04-12 13:06:07">
+    <memoire_total>3815'Mo</memoire_total>
+    <memoire_utilise>183'Mo</memoire_utilise>
+    <memoire_libre>3263'Mo</memoire_libre>
+  </verif_memoire>
+  <verif_nb_connect date_creation="2023-04-12 13:06:07">
+    <nb_utilisateur>1</nb_utilisateur>
+  </verif_nb_connect>
+  <verif_disque date_creation="2023-04-12 13:06:17">
+    <disque_total>10.7Go</disque_total>
+    <disque_utilise>5.47Go</disque_utilise>
+    <disque_libre>4.66Go</disque_libre>
+  </verif_disque>
+  <verif_memoire date_creation="2023-04-12 13:06:17">
+    <memoire_total>3815'Mo</memoire_total>
+    <memoire_utilise>183'Mo</memoire_utilise>
+    <memoire_libre>3263'Mo</memoire_libre>
+  </verif_memoire>
+  <verif_nb_connect date_creation="2023-04-12 13:06:17">
+    <nb_utilisateur>1</nb_utilisateur>
+  </verif_nb_connect>
+  <verif_disque date_creation="2023-04-12 13:06:19">
+    <disque_total>10.7Go</disque_total>
+    <disque_utilise>5.47Go</disque_utilise>
+    <disque_libre>4.66Go</disque_libre>
+  </verif_disque>
+  <verif_memoire date_creation="2023-04-12 13:06:19">
+    <memoire_total>3815'Mo</memoire_total>
+    <memoire_utilise>183'Mo</memoire_utilise>
+    <memoire_libre>3263'Mo</memoire_libre>
+  </verif_memoire>
+  <verif_nb_connect date_creation="2023-04-12 13:06:19">
+    <nb_utilisateur>1</nb_utilisateur>
+  </verif_nb_connect>
+</datas>

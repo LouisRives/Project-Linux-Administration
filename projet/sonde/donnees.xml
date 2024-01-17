@@ -1,0 +1,22 @@
+<datas>
+  <disque>
+    <espacetotal>10.7Go
+</espacetotal>
+    <espaceutilise>5.45Go
+</espaceutilise>
+    <espacelibre>4.68Go
+</espacelibre>
+  </disque>
+  <memoire>
+    <memoire_total>3815'Mo 
+</memoire_total>
+    <memoire_utilise>184'Mo 
+</memoire_utilise>
+    <memoire_libre>3264'Mo
+</memoire_libre>
+  </memoire>
+  <nb_connect>
+    <nb_connectF>1
+</nb_connectF>
+  </nb_connect>
+</datas>

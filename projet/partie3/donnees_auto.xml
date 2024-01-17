@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datas>
+  <verif_disque date_creation="2023-04-12 11:45:56">
+    <disque_total>10.7Go</disque_total>
+    <disque_utilise>5.47Go</disque_utilise>
+    <disque_libre>4.66Go</disque_libre>
+  </verif_disque>
+  <verif_memoire date_creation="2023-04-12 11:45:56">
+    <memoire_total>2000Mo</memoire_total>
+    <memoire_utilise>50Mo</memoire_utilise>
+    <memoire_libre>1950Mo</memoire_libre>
+  </verif_memoire>
+  <verif_nb_connect date_creation="2023-04-12 11:45:56">
+    <nb_utilisateur>1</nb_utilisateur>
+  </verif_nb_connect>
+  <verif_disque date_creation="2023-04-12 11:45:57">
+    <disque_total>10.7Go</disque_total>
+    <disque_utilise>5.47Go</disque_utilise>
+    <disque_libre>4.66Go</disque_libre>
+  </verif_disque>
+  <verif_memoire date_creation="2023-04-12 11:45:57">
+    <memoire_total>5000Mo</memoire_total>
+    <memoire_utilise>300Mo</memoire_utilise>
+    <memoire_libre>4700Mo</memoire_libre>
+  </verif_memoire>
+  <verif_nb_connect date_creation="2023-04-12 11:45:57">
+    <nb_utilisateur>1</nb_utilisateur>
+  </verif_nb_connect>
+    <verif_disque date_creation="2023-04-12 11:45:57">
+    <disque_total>10.7Go</disque_total>
+    <disque_utilise>5.47Go</disque_utilise>
+    <disque_libre>4.66Go</disque_libre>
+  </verif_disque>
+  <verif_memoire date_creation="2023-04-12 11:45:57">
+    <memoire_total>5000Mo</memoire_total>
+    <memoire_utilise>300Mo</memoire_utilise>
+    <memoire_libre>4700Mo</memoire_libre>
+  </verif_memoire>
+  <verif_nb_connect date_creation="2023-04-12 11:45:57">
+    <nb_utilisateur>1</nb_utilisateur>
+  </verif_nb_connect>
+    <verif_disque date_creation="2023-04-12 11:45:57">
+    <disque_total>10.7Go</disque_total>
+    <disque_utilise>5.47Go</disque_utilise>
+    <disque_libre>4.66Go</disque_libre>
+  </verif_disque>
+  <verif_memoire date_creation="2023-04-12 11:45:57">
+    <memoire_total>7000Mo</memoire_total>
+    <memoire_utilise>200Mo</memoire_utilise>
+    <memoire_libre>6000Mo</memoire_libre>
+  </verif_memoire>
+  <verif_nb_connect date_creation="2023-04-12 11:45:57">
+    <nb_utilisateur>1</nb_utilisateur>
+  </verif_nb_connect>
+</datas>

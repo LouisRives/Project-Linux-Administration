@@ -1,0 +1,3 @@
+memoire_total:3815'Mo 
+memoire_utilise:183'Mo 
+memoire_libre:3263'Mo

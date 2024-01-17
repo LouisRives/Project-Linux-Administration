@@ -1,0 +1,8 @@
+Subject: Crise RAM
+
+Attention, l'utilisation RAM est élevée : {{ ram_usage }}%
+
+Veuillez prendre les mesures nécessaires pour résoudre ce problème.
+
+Cordialement,
+L'administrateur du serveur
